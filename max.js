@@ -9,3 +9,5 @@ for(var i = 0; i< maks.length;i++){
 }
 
 console.log(maz)
+
+//01681299640
